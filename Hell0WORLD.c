@@ -6,3 +6,7 @@ int main(int argc, char **argv)
     printf("Hello %s\n", argv[1]);
   return 0;
 }
+
+else{
+    printf("error in file ");
+}
